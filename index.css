@@ -1,0 +1,28 @@
+body{
+background: green;
+color :white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;
+font-weight: bolder
+}
+h1{
+    color: orange;
+}
+#message-el{
+    font-style: italic;
+}
+#btn-Start,#btn-newgame{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    color: #016f32;
+    width: 150px;
+    background-color:goldenrod;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+
+}
